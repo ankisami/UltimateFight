@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/logoUltimateFight.png" alt="Logo" width=142 height=102>
+    <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/logoUltimateFight.png" alt="Logo" width=242 height=102>
   </a>
 
   <h1 align="center">Ultimate Fight</h1>
@@ -47,9 +47,9 @@
  
 ## Creators
 
-**Anki Sami**
-**Barao da Silva Kévin**
-**Lachgar Nahel**
+**Anki Sami** <br>
+**Barao da Silva Kévin** <br>
+**Lachgar Nahel** <br>
 
 
 
