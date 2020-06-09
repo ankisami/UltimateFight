@@ -1,83 +1,58 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/logoUltimateFight.png" alt="Logo" width=72 height=72>
+    <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/logoUltimateFight.png" alt="Logo" width=142 height=102>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h1 align="center">Ultimate Fight</h1>
 
   <p align="center">
-    Short description
+    <h3>Description</h3>
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <p>
+    Ultimate Fight est un projet de semestre 3 réalisé par 3 étudiants en branche Ingénierie du Logiciel.<br>
+    Ce projet est un jeu vidéo 2D de type acarde, inspiré par le jeu populaire "Street Fighter".<br>
+    Projet réalisé en C# et avec la librairie graphique SFML.
+    </p>
+    
   </p>
 </p>
 
 
 ## Table of contents
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
+
+- [Images](#images)
 - [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 
-## Quick start
 
-Some text
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
 
-## Status
+## Images
 
-Here goes all the budgets
+ <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_MainMenu1.png" alt="Logo" width=500 height=500>
 
-## What's included
+ <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_CharacterMenu.png" alt="Logo" width=500 height=500>
+ 
+  <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_ReadyGame.png" alt="Logo" width=500 height=500>
 
-Some text
+ <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_MainMenu1.png" alt="Logo" width=500 height=500>
+ 
+  <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_UltimateAttack1.png" alt="Logo" width=500 height=500>
 
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
-
-## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
+ <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_UltimateAttack2.png" alt="Logo" width=500 height=500>
+ 
+  <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_KoGame.png" alt="Logo" width=500 height=500>
+ 
+ 
 ## Creators
 
-**Creator 1**
+**Anki Sami**
+**Barao da Silva Kévin**
+**Lachgar Nahel**
 
-- <https://github.com/usernamecreator1>
 
-## Thanks
 
-Some Text
 
-## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
 
-Enjoy :metal:
