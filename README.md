@@ -30,19 +30,19 @@
 
 ## Images
 
- <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_MainMenu1.png" alt="Logo" width=500 height=500>
+ <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_MainMenu1.png" alt="Logo" width=500 height=900>
 
- <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_CharacterMenu.png" alt="Logo" width=500 height=500>
+ <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_CharacterMenu.png" alt="Logo" width=500 height=900>
  
-  <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_ReadyGame.png" alt="Logo" width=500 height=500>
+  <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_ReadyGame.png" alt="Logo" width=500 height=900>
 
- <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_MainMenu1.png" alt="Logo" width=500 height=500>
+ <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_MapMenu.png" alt="Logo" width=500 height=900>
  
-  <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_UltimateAttack1.png" alt="Logo" width=500 height=500>
+  <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_UltimateAttack1.png" alt="Logo" width=500 height=900>
 
- <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_UltimateAttack2.png" alt="Logo" width=500 height=500>
+ <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_UltimateAttack2.png" alt="Logo" width=500 height=900>
  
-  <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_KoGame.png" alt="Logo" width=500 height=500>
+  <img src="https://raw.githubusercontent.com/ankisami/UltimateFight/master/DemoImages/img_KoGame.png" alt="Logo" width=500 height=900>
  
  
 ## Creators
