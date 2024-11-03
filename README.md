@@ -9,11 +9,8 @@
     <h3>Description</h3>
     <br>
     <p>
-    Ultimate Fight est un projet de semestre 3 réalisé par 3 étudiants en branche Ingénierie du Logiciel.<br>
-    Ce projet est un jeu vidéo 2D de type acarde, inspiré par le jeu populaire "Street Fighter".<br>
-    Projet réalisé en C# et avec la librairie graphique SFML.
+   Ultimate Fight is an exhilarating 2D arcade video game inspired by the iconic "Street Fighter" series. Featuring graphics and fluid animations, this game offers intense combat mechanics and engaging gameplay. Developed in C# with the SFML graphics library, Ultimate Fight delivers a polished and immersive gaming experience.
     </p>
-    
   </p>
 </p>
 
