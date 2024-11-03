@@ -48,8 +48,7 @@
 ## Creators
 
 **Anki Sami** <br>
-**Barao da Silva Kévin** <br>
-**Lachgar Nahel** <br>
+
 
 
 
